@@ -1,2 +1,6 @@
-backend s3 		: dev/eks-cluster/terraform.tfstate\n
-dynamodb table 		: dev-ekscluster
+### prj1-eks-resources
+
+backend cluster     :     dev/eks-cluster/terraform.tfstate
+dynamodb table      :     dev-ekscluster
+
+dev/eks-cluster/terraform.tfstate
