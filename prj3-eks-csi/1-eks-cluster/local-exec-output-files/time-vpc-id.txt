@@ -1,0 +1,8 @@
+VPC created on mar. 16 janv. 2024 13:21:20 CET and VPC ID: vpc-0d80eab51551a7c20
+VPC created on mer. 17 janv. 2024 20:39:07 CET and VPC ID: vpc-0dc806a052257f955
+VPC created on ven. 19 janv. 2024 18:15:44 CET and VPC ID: vpc-036ac18b2d1425eac
+VPC created on sam. 20 janv. 2024 15:28:03 CET and VPC ID: vpc-0434e1b2bd08d0097
+VPC created on lun. 22 janv. 2024 12:33:29 CET and VPC ID: vpc-075b9dab67bc3effe
+VPC created on lun. 22 janv. 2024 17:25:06 CET and VPC ID: vpc-05e3f8d68bbed00c6
+VPC created on mar. 23 janv. 2024 10:48:09 CET and VPC ID: vpc-02c8f10f4ba4a560a
+VPC created on mer. 24 janv. 2024 18:21:14 CET and VPC ID: vpc-0929ba5fd70be3125
