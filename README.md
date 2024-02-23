@@ -106,3 +106,19 @@ dynamodb table      :     dev-eksexternaldns
  
 backend cluster     :     dev/eks-scaling/terraform.tfstate  
 dynamodb table      :     dev-eksscaling
+
+
+
+### prj9-eks-logging
+
+backend cluster     :     dev/eks-users/terraform.tfstate  
+dynamodb table      :     dev-eksusers
+
+backend cluster     :     dev/eks-lbcontroller/terraform.tfstate  
+dynamodb table      :     dev-ekslbcontroller
+
+backend cluster     :     dev/eks-eksexternaldns/terraform.tfstate  
+dynamodb table      :     dev-eksexternaldns
+
+backend cluster     :     dev/eks-cw-logging/terraform.tfstate  
+dynamodb table      :     dev-ekscw-logging
