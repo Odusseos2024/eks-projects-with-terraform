@@ -12,7 +12,7 @@ resource "aws_eks_node_group" "eks_ng_public" {
   # Type of capacity associated with the EKS Node Group : ON_DEMAND, SPOT.
   capacity_type = "ON_DEMAND"
   
-  ami_type = "AL2_x86_64"  
+  ami_type = "AL2023_x86_64_STANDARD"  
   instance_types = ["t3.medium"]
   disk_size = 20
   
